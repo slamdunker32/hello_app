@@ -27,3 +27,5 @@ by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
 * ...
 あいうえおい
 さしすせそ
+たちつてと
+
